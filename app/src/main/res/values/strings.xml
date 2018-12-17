@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Number Trivia</string>
+    <string name="action_settings">Settings</string>
+    <string name="example_number">48</string>
+    <string name="example_text">48 is the number of Ptolemaic constellations</string>
+</resources>
